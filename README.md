@@ -12,8 +12,11 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
-### `yarn docker-build-prod`
+### `yarn docker-build`
 
 Builds the app for production Docker.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### `yarn docker-run`
+
+Start our production container on port 8080
+Open [http://localhost:8080](http://localhost:8080) to view it in the browser.
